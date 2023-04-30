@@ -25,9 +25,10 @@ body{
 
 
 .mapa{
-    background: url(../img/mapa.jpg);
-    width: 100%;
+    background: url(https://goo.gl/maps/sJt8W6BW3abiu5da9);
+    width: 500px;
     height: 500px;
+    margin:2em;
 
 }
 
@@ -80,8 +81,8 @@ body{
 }
 
 #seccion-contacto{
-    background-color: #1b2a4e;
-    min-height: 700px;
+    background-color: #16759b;
+    min-height: 200px;
     position: relative;
 }
 
@@ -89,8 +90,10 @@ body{
     position:absolute; 
     left: 50%;
     transform: translate(-50%, -50%);
-    background: #fbfafa;
+    background: #abf1a7;
     border-radius: 5px;
+    border-color: #16759b;
+    border-style:double;
     max-width: 500px;
 }
 
